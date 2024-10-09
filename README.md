@@ -9,13 +9,15 @@ This work requires the following MatLab toolboxes:
 
 
 ## Data & Results
+In this case, from 3 images (left, middle and right) stichit into a single.
 
-![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_a.jpg)
+![Left](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_a.jpg)
 
-![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_b.jpg)
+![Center](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_b.jpg)
 
-![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_c.jpg)
+![Right](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_c.jpg)
 
+**Panorama Image**
 
 ![Panorama Image](https://github.com/AlexMaks02/Image_Stiching/blob/main/final_composed_image.png)
 
