@@ -12,12 +12,12 @@ This work requires the following MatLab toolboxes:
 
 ![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/kable_a.jpg)
 
-![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/kable_a.jpg)
+![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/kable_b.jpg)
 
-![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/kable_a.jpg)
+![](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/kable_c.jpg)
 
 
-![](https://github.com/AlexMaks02/Image_Stiching/blob/main/final_composed_image.png)
+![Panorama Image](https://github.com/AlexMaks02/Image_Stiching/blob/main/final_composed_image.png)
 
 
 ## Additional Information
