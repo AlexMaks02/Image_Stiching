@@ -1,27 +1,34 @@
-# Image Stiching
-Stich multiple images into a single.
+# Image Stitching
+This project was developed for the Advanced Computer Vision course, focusing on stitching multiple images into a single panoramic image using MATLAB.
 
-
-Work developed in MatLab.
-This work requires the following MatLab toolboxes:
-- Signal Processing Toolbox;
-- Computer Vision Toolbox;
-
+## Requirements
+The following MATLAB toolboxes are required:
+- Signal Processing Toolbox
+- Computer Vision Toolbox
 
 ## Data & Results
-In this case, from 3 images (left, middle and right) stichit into a single.
 
-![Left](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_a.jpg)
+The goal is to stitch three images (left, center, and right) into a seamless panorama.
 
-![Center](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_b.jpg)
+### Input Images:
+- **Left Image:**
 
-![Right](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_c.jpg)
+  ![Left](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_a.jpg)
 
-**Panorama Image**
+- **Center Image:**
 
-![Panorama Image](https://github.com/AlexMaks02/Image_Stiching/blob/main/final_composed_image.png)
+  ![Center](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_b.jpg)
 
+- **Right Image:**
 
-## Additional Information
-- Reza Farrahi Moghaddam (2023). [Remove white space around images](https://www.mathworks.com/matlabcentral/fileexchange/34898-remove-white-space-around-images), MATLAB Central File Exchange. Retrieved October 13, 2023.
-- Preetham Manjunatha (2023). [Panorama image cropper](https://github.com/preethamam/panoramaCropper/releases/tag/1.0.2), GitHub. Retrieved October 13, 2023.
+  ![Right](https://github.com/AlexMaks02/Image_Stiching/blob/main/data/keble_c.jpg)
+
+### Output:
+- **Panorama Image:**
+
+  ![Panorama Image](https://github.com/AlexMaks02/Image_Stiching/blob/main/final_composed_image.png)
+
+## Additional Resources
+- Reza Farrahi Moghaddam (2023). [Remove White Space Around Images](https://www.mathworks.com/matlabcentral/fileexchange/34898-remove-white-space-around-images), MATLAB Central File Exchange. Retrieved October 13, 2023.
+- Preetham Manjunatha (2023). [Panorama Image Cropper](https://github.com/preethamam/panoramaCropper/releases/tag/1.0.2), GitHub. Retrieved October 13, 2023.
+
